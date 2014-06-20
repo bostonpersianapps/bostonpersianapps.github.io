@@ -1,6 +1,6 @@
 <?php 
 // EDIT THE 2 LINES BELOW AS REQUIRED
-$send_email_to = "admin@admin.com";$email_subject = "Your email subject line";
+$send_email_to = "ketabweb@gmail.com";$email_subject = "Your email subject line";
 function send_email($name,$email,$email_message)
 {
   global $send_email_to;
